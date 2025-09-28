@@ -22,7 +22,7 @@ Its intuitive interface and powerful visualization options make it easy to spot 
 
 Optimized for macOS Sonoma, Ventura, Monterey, and earlier versions, Kaleidoscope is trusted by professionals worldwide for its speed, precision, and ease of use.
 
-![Kaleidoscope Screenshot](https://static.macupdate.com/screenshots/324838/m/kaleidoscope-screenshot.png?v=1660286196)
+![Kaleidoscope Screenshot](https://framerusercontent.com/images/kd9AR4WPbPk6jC8PSKABLFYBR8.jpg?scale-down-to=2048)
 
 ---
 
